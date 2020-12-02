@@ -5,4 +5,4 @@
 layout: default
 ---
 
-Use this site to sharing ideas about data science and machine learning.
+Use this site to sharing ideas about data science and machine learning. *****************
